@@ -3,5 +3,8 @@
     <Project Path="Com_Delegates/Com_Delegates.csproj" />
     <Project Path="Sem_Delegates/Sem_Delegates.csproj" />
   </Folder>
-  <Folder Name="/Eventos/" />
+  <Folder Name="/Eventos/">
+    <Project Path="Com_Eventos/Com_Eventos.csproj" Id="131ccf9a-68e4-4c8b-80e4-ef4203ecc3b8" />
+    <Project Path="Sem_Eventos/Sem_Eventos.csproj" Id="4ba5506a-5aa6-4e10-a39f-f9c930dc3cb9" />
+  </Folder>
 </Solution>

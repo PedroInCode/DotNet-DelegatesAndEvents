@@ -32,7 +32,7 @@ public class Estoque_SemEvento
         if(Quantidade >= quantidade)
         {
             Quantidade -= quantidade;
-            Console.WriteLine($"Retirada de {quantidade} unidades de '{Produto}'. Estoque atual {Quantidade} unidades.");
+            Console.WriteLine($"\nRetirada de {quantidade} unidades de '{Produto}'. Estoque atual {Quantidade} unidades.");
 
             //Verificação manual e chamada direta dos métodos.
             if(Quantidade < _nivelCritico)
