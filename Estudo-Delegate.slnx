@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Delegates/">
+    <Project Path="Com_Delegates/Com_Delegates.csproj" />
+    <Project Path="Sem_Delegates/Sem_Delegates.csproj" />
+  </Folder>
+  <Folder Name="/Eventos/" />
+</Solution>
